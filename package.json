@@ -1,0 +1,17 @@
+{
+  "name": "conversinhas",
+  "version": "0.0.1",
+  "description": "Allows people to anonymously exchange gifs",
+  "main": "src/conversinhas.js",
+  "author": "Junior Magalhães",
+  "contributors": ["Natasha Weissenborn"],
+  "license": "MIT",
+  "giskard": {
+    "module": "Conversinhas",
+    "created": "Tue Mar 29 11:45:54 BRT 2016",
+    "help": {
+      "Manda um gif <categoria> pra/o <usuário>": "Pesquisa por gifs contendo a categoria especificada e o envia para um determinado usuário."
+    }
+  },
+  "dependencies": {}
+}
